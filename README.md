@@ -1,4 +1,4 @@
-# skku_stegoSaurus
+# skku_deepfakeRestoration
 성균관대학교 과학수사 CSDF 연구실의 딥페이크 탐지 및 복원 연구에 관한 문서입니다.
 
 연구 제목 : 스테가노그래피 기반 신원 정보 임베딩 및 딥페이크 검증 및 복원<br>
